@@ -1,9 +1,9 @@
-.container {
-
+a:hover {
+    color: #04B2D9 !important;
 }
 
-.footer {
-
+.ft-color {
+    color: #04B2D9 !important;
 }
 
 .bg-navbar {
@@ -11,3 +11,31 @@
     background-color: #48038C;
     box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, .05), inset 0 -1px 0 rgba(0, 0, 0, .1);
 }
+
+body {
+    
+}
+.container {
+    margin-top: 50px;
+    padding: 20px;
+    background-color: whitesmoke;
+    height: 500px;
+    width: 66vw;
+}
+
+
+/* font-family: 'Play', sans-serif;
+font-family: 'Rajdhani', sans-serif;
+*/
+#headline {
+    font-family: 'Play', sans-serif;
+    font-weight: bold;
+    font-size: 28px;
+    
+}
+
+footer {
+    width: 100vw;
+    text-align: center;
+    padding: 10px;
+\}
