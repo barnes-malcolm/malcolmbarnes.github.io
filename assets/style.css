@@ -25,18 +25,26 @@ a:hover {
     
 }
 
+.btn-headline {
+    text-align: center;
+    padding-bottom: 20px;
+
+}
+
+.btn-primary {
+    background-color: #04B2D9;
+    border-color: transparent;
+    color: #48038C;
+}
+
 .intro {
     margin-top: 50px;
     padding: 20px;
     background-color: whitesmoke;
-    height: 500px;
-    width: 66vw;
+    height: 400px;
+    width: 100vw;
 }
 
-
-/* font-family: 'Play', sans-serif;
-font-family: 'Rajdhani', sans-serif;
-*/
 #headline {
     font-family: 'Play', sans-serif;
     font-weight: bold;
@@ -44,8 +52,25 @@ font-family: 'Rajdhani', sans-serif;
     
 }
 
+.table {
+    text-align: center;
+}
+
+.services {
+    margin-top: 50px;
+    padding: 20px;
+    background-color: whitesmoke;
+    height: 500px;
+    width: 100vw;
+    margin-bottom: 200px;
+}
+
+/* font-family: 'Play', sans-serif;
+font-family: 'Rajdhani', sans-serif;
+*/
+
 footer {
     width: 100vw;
     text-align: center;
-    padding: 10px;
-\}
+    padding-top: 20px;
+}
