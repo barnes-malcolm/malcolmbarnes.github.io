@@ -102,3 +102,20 @@ footer {
     font-family: 'Rajdhani', sans-serif;
    
 }
+
+/*Portfolio page begins
+*/
+
+.form {
+    margin-top: 50px;
+    width: 66vw;
+    background-color: whitesmoke;
+    padding: 20px;
+    margin-bottom: 200px;
+}
+
+.sm-chan {
+    padding-top: 20px;
+    margin-top: 20px;
+
+}
