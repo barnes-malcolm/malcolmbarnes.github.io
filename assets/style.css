@@ -74,3 +74,25 @@ footer {
     text-align: center;
     padding-top: 20px;
 }
+
+/*Portfolio page begins
+*/
+.portfolio {
+    background-color: whitesmoke;
+    height: auto;
+    padding: 20px;
+    margin-top: 50px;
+
+}
+
+.proj-descr-hl {
+    font-family: 'Play', sans-serif;
+    font-size: 21px;
+    font-weight: bold;
+}
+
+#proj-descr {
+    padding-top: 15px;
+    font-family: 'Rajdhani', sans-serif;
+   
+}
