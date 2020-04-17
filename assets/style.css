@@ -37,6 +37,12 @@ a:hover {
     color: #48038C;
 }
 
+.btn:hover {
+    background-color: #48038C;
+    border-color: transparent;
+    color: #04B2D9;
+}
+
 .button {
     background-color: #48038C;
     color: white;
