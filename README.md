@@ -1,6 +1,5 @@
 # malcolmbarnes.github.io
-My Personal Portfolio
-# Project Title
+# My Personal Portfolio
 
 This goal of this project was to complete a responsive portfolio website using HTML5 and CSS including Bootstrap.
 
