@@ -8,7 +8,7 @@ a:hover {
 
 .bg-navbar {
     min-height: 66px;
-    background-color: #48038C;
+    background-color: #26014A;
     box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, .05), inset 0 -1px 0 rgba(0, 0, 0, .1);
 }
 
@@ -16,7 +16,7 @@ a:hover {
     font-family: 'Play', sans-serif;
     font-weight: bold;
     font-size: 48px;
-    color: #48038C;
+    color: #26014A;
     text-align: center;
     margin-top: 10px;
     background-color: whitesmoke;
