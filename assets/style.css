@@ -27,7 +27,7 @@ a:hover {
 
 .hero {
     height: 800px;
-    width: 100%;
+    width: 100vw;
     margin-bottom: 25px;
     background-image: url(./images/light-bulb.jpg);
     background-size: cover;
@@ -37,8 +37,18 @@ a:hover {
 .headline-div {
     height: 500px;
     width: 100vw;
-    margin-left: 100px;
+    margin-left: 200px;
     margin-top: 200px;
+}
+
+.card {
+    border-color: transparent;
+    margin: 0 !important;
+}
+
+#headline-img {
+    margin-right: 200px;
+    margin-top: 90px;
 }
 
 .btn-headline {
