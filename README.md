@@ -5,7 +5,7 @@ This goal of this project was to complete a responsive portfolio website using H
 
 ## Getting Started
 
-Open this URL in your browser: barnes-malcolm.github.io/my-portfolio/portfolio.html
+Open this URL in your browser: barnes-malcolm.github.io/my-portfolio/index.html
 
 ### Prerequisites
 
@@ -19,7 +19,7 @@ A web browser
 
 ## Authors
 
-* **Malcolm Barnes** - https://barnes-malcolm.github.io/my-portfolio/portfolio.html
+* **Malcolm Barnes** - https://barnes-malcolm.github.io/my-portfolio/index.html
 
 ## License
 
