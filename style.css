@@ -29,9 +29,25 @@ a:hover {
     height: 800px;
     width: 100vw;
     margin-bottom: 25px;
-    background-image: url(./images/light-bulb.jpg);
+    background-image: url(./assets/images/light-bulb.jpg);
     background-size: cover;
     background-position: center;
+}
+
+.team {
+    height: 800px;
+    width: 100vw;
+    margin-bottom: 250px;
+    background-image: url(./assets/images/team.png);
+    background-position: center;
+
+}
+
+.btm-btn {
+    margin-top: 150px;
+    font-family: 'Play', sans-serif;
+    font-size: 27px;
+    color: #48038C;
 }
 
 .headline-div {
@@ -49,6 +65,12 @@ a:hover {
 #headline-img {
     margin-right: 200px;
     margin-top: 90px;
+}
+
+#headline-srvcs {
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 17pt;
+    padding-top: 10px;
 }
 
 .btn-headline {
@@ -86,6 +108,11 @@ a:hover {
     font-family: 'Play', sans-serif;
     font-weight: bold;
     font-size: 50px;
+    margin-bottom: 30px;
+}
+
+.headline-p {
+    margin-bottom: 100px;
 }
 
 .table {
