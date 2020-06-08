@@ -15,7 +15,7 @@ a:hover {
 .tagline {
     font-family: 'Play', sans-serif;
     font-weight: bold;
-    font-size: 50px;
+    font-size: xxx-large;
     color: #26014A;
     text-align: center;
     margin-top: 15px;
@@ -47,7 +47,7 @@ a:hover {
     margin-top: 150px;
     font-family: 'Play', sans-serif;
     font-size: 27px;
-    color: #48038C;
+    color: #26014A;
 }
 
 .headline-div {
@@ -82,7 +82,7 @@ a:hover {
 .btn-primary {
     background-color: #04B2D9;
     border-color: transparent;
-    color: #48038C;
+    color: #26014A;
 }
 
 .btn:hover {
